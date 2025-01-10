@@ -1,6 +1,6 @@
 
 # File Renamer 
-<img src="assets/file_renamer_filled.svg" alt="File Renamer Logo" width="50"/> 
+<img src="assets/logo.svg" alt="File Renamer Logo" width="50"/> 
 
 **File Renamer** ist ein praktisches Python-Tool, das das Umbenennen von Dateien effizient und benutzerfreundlich gestaltet. Es bietet die Möglichkeit, Dateien nach spezifischen Konventionen umzubenennen, wie z. B.:
 
@@ -44,7 +44,7 @@ Das Tool wurde speziell für Benutzer entwickelt, die mit großen Mengen an Date
 Sieh dir das folgende kurze Video an, um zu erfahren, wie du das Tool Schritt für Schritt nutzen kannst:
 
 <video width="600" controls>
-  <source src="assets/screencast.mp4" type="video/mp4">
+  <source src="./assets/screencast.mp4" type="video/mp4">
   Dein Browser unterstützt dieses Video-Format nicht.
 </video>
 
@@ -55,7 +55,8 @@ Sieh dir das folgende kurze Video an, um zu erfahren, wie du das Tool Schritt f�
 ### Linux
 Lade die ausführbare Datei für Linux herunter und führe sie aus:
 
-- [Download File Renamer für Linux](dist/fileRenamer)
+- [Download fileRenamer für Linux](dist/fileRenamer)
+- [Download fileRenamer.zip für Linux](assets/fileRenamer.zip)
 
 
 ## Hinweise
