@@ -20,10 +20,10 @@ Das Tool wurde speziell für Benutzer entwickelt, die mit großen Mengen an Date
 1. **Verzeichnis auswählen:**
    - Klicke auf den Button **"Select Directory"**.
    - Wähle das Verzeichnis aus, in dem sich die Dateien befinden, die nach den festgelegten **Namenskonventionen** geprüft werden sollen:
-     - **Namenskonventionen:** Regeln, die sicherstellen, dass Dateinamen einheitlich und übersichtlich sind:
-       - **Kleinbuchstaben verwenden:** Vermeidung von Großbuchstaben für Konsistenz.
-      - **Wörter mit Unterstrichen trennen:** `urlaub fotos 2023.jpg` → `urlaub_fotos_2023.jpg`.             Leerzeichen werden durch Unterstriche ersetzt, um Dateinamen serverfreundlich zu gestalten.
-      - **CamelCase in Bindestriche umwandeln:** `UrlaubFotos2023.jpg` → `urlaub-fotos-2023.jpg`.          Dies sorgt für einheitliche und gut lesbare Dateinamen.
+
+     - **Kleinbuchstaben verwenden:** Vermeidung von Großbuchstaben für Konsistenz.
+     - **Wörter mit Unterstrichen trennen:** `urlaub fotos 2023.jpg` → `urlaub_fotos_2023.jpg`.           Leerzeichen werden durch Unterstriche ersetzt, um Dateinamen serverfreundlich zu gestalten.
+     - **CamelCase in Bindestriche umwandeln:** `UrlaubFotos2023.jpg` → `urlaub-fotos-2023.jpg`.          Dies sorgt für einheitliche und gut lesbare Dateinamen.
 
        - **Umlaute und Sonderzeichen ersetzen:** `ä` → `ae`, `ö` → `oe`, `ü` → `ue`, `ß` → `ss`.
 
