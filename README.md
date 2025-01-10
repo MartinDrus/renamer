@@ -44,7 +44,7 @@ Das Tool wurde speziell für Benutzer entwickelt, die mit großen Mengen an Date
 Sieh dir das folgende kurze Video an, um zu erfahren, wie du das Tool Schritt für Schritt nutzen kannst:
 
 <video width="600" controls>
-  <source src="./assets/screencast.mp4" type="video/mp4">
+  <source src="assets/screencast.mp4" type="video/mp4">
   Dein Browser unterstützt dieses Video-Format nicht.
 </video>
 
