@@ -1,0 +1,25 @@
+# Virtuelle Umgebung
+venv/
+
+# Byte-compiled Python-Dateien
+__pycache__/
+*.pyc
+*.pyo
+
+# Log-Dateien
+*.log
+
+# Temporäre Dateien/Ordner
+*.tmp
+*.swp
+*.swo
+.DS_Store
+*.bak
+
+# Systemdateien
+Thumbs.db
+.idea/
+.vscode/
+
+# Abhängigkeiten
+*.egg-info/
